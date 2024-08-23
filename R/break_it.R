@@ -8,12 +8,8 @@
 #'
 #' @examples
 break_it <- function(name, break_it){
-  if(break_it){
-    print(paste("Ok", name, "you asked for it"))
-    while (TRUE) {
-      print(i)
-      i <- i*2
-    }
+  while (TRUE) {
+   print(paste("Ok", name, "you asked for it"))
   }
   return("oh ok.")
 }
