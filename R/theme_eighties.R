@@ -1,10 +1,10 @@
+
 #' Super Funky Theme
 #'
 #' @return
 #' @export
 #'
 #' @examples
-#'
 theme_eighties <- function(){
   theme(title = element_text(size= 16, color="purple"),
       plot.background = element_rect(fill="black"),

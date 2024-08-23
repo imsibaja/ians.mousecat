@@ -3,8 +3,7 @@
 #' @param consumable name of whatever you had just consumed
 #' @param amount total number of whatever you had just consumed
 #' @param lie boolean to choose if you lie or not... heheheh..
-#'
-@return
+#' @return
 #' @export
 #'
 #' @examples
